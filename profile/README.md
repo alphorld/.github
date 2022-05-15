@@ -2,7 +2,7 @@
 
 ## About Alphorld
 
-[Alphorld](https://www.alphorld.com) builds web applications, open sourse packages & essential tools for diffrent ecosystems.
+[Alphorld](https://www.alphorld.com) builds web applications, open-source packages & essential tools for different ecosystems.
 
 We love using Laravel & Livewire for our projects and contributing to these ecosystems so most of our projects will be based on these ecosystems.
 
